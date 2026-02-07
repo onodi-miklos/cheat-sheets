@@ -1,0 +1,4 @@
+Typescript: https://www.typescriptlang.org/docs/
+Git: https://git-scm.com/docs
+Github: https://docs.github.com/en
+Anything else: https://www.w3schools.com/
