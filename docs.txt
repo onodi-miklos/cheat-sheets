@@ -2,4 +2,5 @@ Typescript: https://www.typescriptlang.org/docs/
 Git: https://git-scm.com/docs
 Github: https://docs.github.com/en
 MongoDB: https://www.bon.com.na/bon.com.na/media/MediaPage/PDF/Light.pdf
-Anything else: https://www.w3schools.com/
+Anything else: https://www.w3schools.com
+              quickref.me
